@@ -1,0 +1,44 @@
+
+.temperature-section-container {
+    background-color: #02170e;
+    background-size: cover;
+
+}
+
+.Temperature-heading {
+    color: white;
+    font-family: beer Serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.icon_1 {
+    color: white;
+    font-size: 50px;
+
+}
+
+input {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Roboto;
+    border-radius: 10px;
+    border-width: 0;
+    height: 50px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.icon {
+    color: white;
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto;
+    text-align: center;
+    padding: 2px;
+
+
+
+}
